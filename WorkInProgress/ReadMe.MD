@@ -31,7 +31,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Como criar uma DAO](https://web.dio.me/lab/criando-uma-dao/learning/587d22e5-3d04-44fc-8990-a88c3045c4e2)[Entendendo o Desafio](https://web.dio.me/lab/criando-uma-dao/learning/eb130b4e-f1af-4397-b706-9186e292a869)
+- [Como criar uma DAO](https://web.dio.me/lab/criando-uma-dao/learning/587d22e5-3d04-44fc-8990-a88c3045c4e2)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-uma-dao/learning/eb130b4e-f1af-4397-b706-9186e292a869)
 
 
 
